@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Heroes</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="title_activity_history">HistoryActivity</string>
+    <string name="local_history">LOCAL HISTORY</string>
+    <string name="clear">CLEAR</string>
+    <string name="enter_name">PLEASE ENTER A STARWARS HERO NAME</string>
+    <string name="search">SEARCH</string>
+    <string name="history">HISTORY</string>
+</resources>
